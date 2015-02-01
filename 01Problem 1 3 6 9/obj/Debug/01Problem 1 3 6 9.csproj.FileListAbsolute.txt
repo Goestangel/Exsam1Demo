@@ -1,0 +1,6 @@
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\bin\Debug\01Problem 1 3 6 9.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\bin\Debug\01Problem 1 3 6 9.exe
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\bin\Debug\01Problem 1 3 6 9.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\obj\Debug\01Problem 1 3 6 9.csprojResolveAssemblyReference.cache
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\obj\Debug\01Problem 1 3 6 9.exe
+c:\users\goshev\documents\visual studio 2013\Projects\ExsamDemos\01Problem 1 3 6 9\obj\Debug\01Problem 1 3 6 9.pdb
